@@ -5,5 +5,12 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Blacky",
+    "edad": "7 años",
+    "tipo": "gato",
+    "color": "negro",
+    "enfermedad": "cojea"
   }
 ]
